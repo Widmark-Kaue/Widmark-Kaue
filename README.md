@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-
 <div>
   <a href="https://github.com/Widmark-Kaue">
   <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=Widmark-Kaue&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
