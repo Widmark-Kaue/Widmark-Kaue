@@ -31,8 +31,6 @@
 
 ###
 
-<br clear="both">
-
 <img src="https://raw.githubusercontent.com/Widmark-Kaue/Widmark-Kaue/output/snake.svg" alt="Snake animation" />
 
 ###
